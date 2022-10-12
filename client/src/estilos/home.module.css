@@ -1,0 +1,94 @@
+
+
+
+.padre_home{
+    width: 100%;
+    height: auto;
+    background-image: url("https://i.pinimg.com/originals/46/2f/56/462f56d9c11e41741daae2c35c70f069.jpg");
+    background-size: cover;
+     display:grid; 
+   
+}
+
+
+
+.countries_div{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    align-items:center;
+    
+    
+}
+
+.padre_filtros{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    align-items:center;
+    margin: 80px 200px 70px;
+}
+
+
+
+
+
+.select{
+    background-color: rgb(138, 141, 143);
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    padding: 10px 22px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-style:initial;
+    border-radius: 5px;
+    border-color: none;
+    border-style: none; 
+    cursor: pointer;
+}
+
+
+.padre_recargar{
+        margin-right: -30px;
+}
+
+.link{
+    text-decoration: none;
+    color:black;
+}
+
+.btn_recargar{
+    background-color: rgb(138, 141, 143);
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    padding: 10px 15px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-style:initial;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 660px;
+    
+
+}
+.btn_create{
+    background-color: rgb(138, 141, 143);
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    padding: 10px 15px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-style:initial;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 100px;
+   
+}
+
+.padre_botones{
+    display: flex;
+    margin-top: -10px;
+    margin-left: 50px;
+    
+}

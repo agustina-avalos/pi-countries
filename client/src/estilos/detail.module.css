@@ -1,0 +1,94 @@
+.padre {
+
+    width: 100%;
+    height: 100%;
+    background-image: url("https://www.muypymes.com/wp-content/uploads/2020/01/Viajes.jpg");
+    background-size: cover;
+    display: grid;
+
+
+}
+
+.padrename {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+
+
+
+.padreimg {
+    background-color: rgba(222, 184, 135, 0.411);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 45vw;
+    height: 55vh;
+    margin-left: 100px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+img {
+    margin-top: 20px;
+    width: 40vw;
+    height: 50vh;
+}
+
+.padreactivities {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    background-color: rgba(240, 248, 255, 0.308);
+    margin-left: 67%;
+    margin-top: -65%;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20vw;
+    height: auto;
+    margin-bottom: 200px;
+   
+}
+
+
+.padreinfo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    background-color: rgba(221, 209, 171, 0.192);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 35vw;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 150px;
+    border-radius: 15px;
+}
+
+.padresubregion {
+    margin-left: 20px;
+    margin-top: -15px;
+}
+
+.padrearea {
+    margin-top: -20px;
+}
+
+.padrepopulation {
+    margin-top: -15px;
+}
+
+.padrecon {
+    margin-top: -10px;
+}
+
+.padrecapital{
+    margin-left: 20px;
+    margin-top: -15px;
+}

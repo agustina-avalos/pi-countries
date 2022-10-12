@@ -1,0 +1,29 @@
+.numpaginado{
+    display:inline;
+     padding-left:5px;
+     padding-right:5px;
+     font-size: 15px;
+     text-decoration: none;
+     color: aliceblue ;
+                                                                                                                         ;
+}
+
+.contenedor_paginado{                  
+    background-color: rgb(70, 87, 99);
+    display:inline;
+    padding-left:6px;
+    padding-right:6px;
+    margin-right: 4px;
+    font-size: 20px;
+    border-radius: 15px;
+    cursor:pointer;
+    transition: 3s;
+}
+.contenedor_paginado :hover{
+    box-shadow: 1px 1px 30px -5px rgb(206, 212, 212);
+     cursor:pointer;
+}
+
+.nav{
+    margin-left: -20px;
+}
